@@ -1,2 +1,2 @@
-# Ola-Mundo
- Repositório versionado com propósitos educacionais.
+# Olá, Mundo!
+ Este repositório versionado foi criado para propósitos educacionais.
