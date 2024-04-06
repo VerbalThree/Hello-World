@@ -3,6 +3,33 @@
     
 }
 
+img {
+    width: 350px;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.cursoimage{
+    width: 125px;
+    border: 0px;
+    border-radius: 10px;
+    margin: 0 0 50px 100px;
+}
+
+.javascriptimage {
+   width: 150px;
+   height: 150px;
+}
+
+.buttondesign {
+    margin: 10px 0 0 0;
+    border: 0 50px 0 0;
+    height: 20px;
+    right: 115px;
+    position: relative;
+    
+}
+
 header {
     text-align: center;
     font-size: 10px;
@@ -34,7 +61,8 @@ footer {
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
     width: 250px;
-    margin: 10px 0px 5px 300px;
+    margin: 10px 0px 5px 133px;
     padding: 5px;
     box-shadow: 3px 3px 5px black;
+    /* right: 50px; */
 }
