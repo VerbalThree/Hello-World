@@ -1,3 +1,2 @@
-# Hello, World!
-This versionig repository has been made for <strong>educational purposes only.</strong> :books:
-
+<h1 align="center">Hello, World!</h1>
+<h3 align="center">This versioning repository has been made for educational purposes. :books:</h3>
