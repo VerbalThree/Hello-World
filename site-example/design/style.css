@@ -54,18 +54,19 @@ main {
     color: gray;
 }
 
-footer {
-  
-    align-items: center;
-    justify-content: center;
-    display: flex;
+.flex-container {
+    position: absolute;
+    right: 50%;
+    bottom: -400px;
+    transform: translateX(50%);
+    margin-bottom: 500px;
     font-size: 21px;
     text-align: center;
     border: 0;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
     width: 250px;
-    margin: 65px 0px 0px 0;
+    margin: 50px 0px 0px 0px;
     padding: 5px;
     box-shadow: inset 4px -4px 5px black;
 }
