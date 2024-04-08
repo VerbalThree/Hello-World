@@ -76,7 +76,7 @@ main {
 .flex-containerplay{
     position: absolute;
     right: 43%;
-    bottom: 7%;
+    bottom: 6%;
     transform: translateX(50%);
     transform: translateY(50%);
     font-size: 21px;
