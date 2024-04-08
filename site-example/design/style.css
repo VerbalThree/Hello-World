@@ -41,11 +41,13 @@ body {
 }
 
 main {
+    border-radius: 10px;
+    border: 0px;
     background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: inset 2px -3px 10px 0px black;
     font-size: 16px;
     text-align: center;
 }
@@ -56,21 +58,37 @@ main {
 
 .flex-container {
     position: absolute;
-    right: 50%;
-    bottom: -400px;
+    right: 43%;
+    bottom: -37%;
     transform: translateX(50%);
-    margin-bottom: 500px;
+    transform: translateY(50%);
     font-size: 21px;
     text-align: center;
     border: 0;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
     width: 250px;
-    margin: 50px 0px 0px 0px;
+    margin: 50px 0px -5px 0px;
     padding: 5px;
-    box-shadow: inset 4px -4px 5px black;
+    box-shadow: inset 2px -3px 10px 0px black;
 }
 
+.flex-containerplay{
+    position: absolute;
+    right: 43%;
+    bottom: 7%;
+    transform: translateX(50%);
+    transform: translateY(50%);
+    font-size: 21px;
+    text-align: center;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    margin: 50px 0px -5px 0px;
+    padding: 5px;
+    box-shadow: inset 2px -3px 10px 0px black;
+}
 .linkfooter:hover {
   background-color: yellow;
 }
