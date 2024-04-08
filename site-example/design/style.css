@@ -55,13 +55,21 @@ main {
 }
 
 footer {
-    font-size: 22px;
+  
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 21px;
     text-align: center;
     border: 0;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
     width: 250px;
-    margin: 10px 0px 5px 133px;
+    margin: 65px 0px 0px 0;
     padding: 5px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: inset 4px -4px 5px black;
+}
+
+.linkfooter:hover {
+  background-color: yellow;
 }
