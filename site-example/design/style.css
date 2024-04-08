@@ -58,35 +58,35 @@ main {
 
 .flex-container {
     position: absolute;
-    right: 43%;
-    bottom: -37%;
+    right: 42%;
+    bottom: -15%;
     transform: translateX(50%);
     transform: translateY(50%);
-    font-size: 21px;
+    font-size: 33px;
     text-align: center;
     border: 0;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-    width: 250px;
+    width: 330px;
     margin: 50px 0px -5px 0px;
-    padding: 5px;
+    padding: 15px;
     box-shadow: inset 2px -3px 10px 0px black;
 }
 
 .flex-containerplay{
     position: absolute;
-    right: 43%;
-    bottom: 6%;
+    right: 42%;
+    bottom: -15%;
     transform: translateX(50%);
     transform: translateY(50%);
-    font-size: 21px;
+    font-size: 33px;
     text-align: center;
     border: 0;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-    width: 250px;
+    width: 330px;
     margin: 50px 0px -5px 0px;
-    padding: 5px;
+    padding: 15px;
     box-shadow: inset 2px -3px 10px 0px black;
 }
 
