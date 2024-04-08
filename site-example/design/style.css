@@ -58,16 +58,16 @@ main {
 
 .flex-container {
     position: absolute;
-    right: 42%;
-    bottom: -15%;
+    right: 41%;
+    bottom: -41%;
     transform: translateX(50%);
     transform: translateY(50%);
-    font-size: 33px;
+    font-size: 27px;
     text-align: center;
     border: 0;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-    width: 330px;
+    width: 300px;
     margin: 50px 0px -5px 0px;
     padding: 15px;
     box-shadow: inset 2px -3px 10px 0px black;
@@ -75,16 +75,16 @@ main {
 
 .flex-containerplay{
     position: absolute;
-    right: 42%;
-    bottom: -15%;
+    right: 41.3%;
+    bottom: 10%;
     transform: translateX(50%);
     transform: translateY(50%);
-    font-size: 33px;
+    font-size: 27px;
     text-align: center;
     border: 0;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-    width: 330px;
+    width: 300px;
     margin: 50px 0px -5px 0px;
     padding: 15px;
     box-shadow: inset 2px -3px 10px 0px black;
